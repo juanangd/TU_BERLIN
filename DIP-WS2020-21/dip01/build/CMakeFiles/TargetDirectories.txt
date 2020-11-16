@@ -1,5 +1,0 @@
-/home/student/Desktop/git/TU_BERLIN/DIP-WS2020-21/dip01/build/CMakeFiles/rebuild_cache.dir
-/home/student/Desktop/git/TU_BERLIN/DIP-WS2020-21/dip01/build/CMakeFiles/edit_cache.dir
-/home/student/Desktop/git/TU_BERLIN/DIP-WS2020-21/dip01/build/CMakeFiles/unit_test.dir
-/home/student/Desktop/git/TU_BERLIN/DIP-WS2020-21/dip01/build/CMakeFiles/main.dir
-/home/student/Desktop/git/TU_BERLIN/DIP-WS2020-21/dip01/build/CMakeFiles/code.dir
